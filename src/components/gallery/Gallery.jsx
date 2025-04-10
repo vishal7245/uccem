@@ -49,7 +49,22 @@ const Gallery = () => {
     },
     {
       url: "/e10.jpeg",
-    }
+    },
+    {
+      url: "l1 (1).jpeg",
+    },
+    {
+      url: "l1 (2).jpeg",
+    },
+    {
+      url: "l1 (3).jpeg",
+    },
+    {
+      url: "l1 (4).jpeg",
+    },
+    {
+      url: "l1 (5).jpeg",
+    },
   ];
 
   useEffect(() => {
