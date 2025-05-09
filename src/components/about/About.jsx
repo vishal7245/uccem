@@ -11,14 +11,6 @@ const items = [
     desc: "Ujjwal Chatterjee is an acclaimed film director whose career spans feature films, documentaries, television, and advertising. His debut 'Gondi' (1993) won a National Award, while his internationally recognized 'Escape from Taliban' received global acclaim. As founder of UCC Entertainments, he has produced numerous television serials and is currently directing 'Jungle Crows' for the Children Film Society India. His upcoming projects include 'NALINI,' a bilingual film about Rabindranath Tagore, in collaboration with Priyanka Chopra. Ujjwal serves on the Advisory Board of the Censor Board Film Certification and holds memberships in several prestigious film associations across India.",
     link: "",
   },
-  {
-    id: 2,
-    title: "Mr. Yogesh Agrawal",
-    role: "Chairman & Managing Director",
-    img: "ya.jpeg",
-    desc: "With over three decades of excellence, Yogesh Agrawal serves as Chairman and Managing Director of Genomic Valley Biotech Limited since 1994. A Delhi University graduate with chartered and cost accountancy qualifications, his career spans from financial consulting to agro-biotechnology innovation. After successful years in merchant banking, he pursued biotechnology through international partnerships, establishing his company with the blessing of former PM Vajpayee. Beyond business, Mr. Agrawal maintains deep cultural connections through the Ram Mandir project in Mauritius and prestigious awards. Today, he focuses on revolutionizing genomics in healthcare to position India as a global leader in this field.",
-    link: "",
-  },
 ];
 
 const Single = ({ item }) => {
